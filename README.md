@@ -3,8 +3,8 @@ Scraping NASA websites and collect data about the Mission to Mars. Save data in 
 
 ## Project Overview
 
-Using BeautifulSoup and Splinter to scrape data about the Mission to Mars, store the scraped data on a Mongo database and use Flask web application to display the data in a single HTML page.
-
+Helping Robin who is a junior data scientist to scrape data about the Mission to Mars by using BeautifulSoup and Splinter, store the scraped data on a Mongo database and use Flask web application to display the data in a single HTML page.
+ 
 
 ## Resources
 
