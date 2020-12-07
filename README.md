@@ -13,4 +13,4 @@ Software: Python 3.8.3, Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.3, MongoD
 
 ## Screenshot of the Web Page
 
-![](
+![](https://github.com/Nazanin-hub/Mission-to-Mars/blob/main/Mission-to-Mars.png)
